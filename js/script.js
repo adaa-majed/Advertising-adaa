@@ -69,6 +69,13 @@ function ProjectsFill() {
         { image: './images/projects/38.png', title: 'مشروع 38' },
         { image: './images/projects/39.png', title: 'مشروع 39' },
         { image: './images/projects/40.png', title: 'مشروع 40' },
+        { image: './images/projects/41.png', title: 'مشروع 41' },
+        { image: './images/projects/42.png', title: 'مشروع 42' },
+        { image: './images/projects/43.png', title: 'مشروع 43' },
+        { image: './images/projects/44.png', title: 'مشروع 44' },
+        { image: './images/projects/45.png', title: 'مشروع 45' },
+        { image: './images/projects/46.png', title: 'مشروع 46' },
+        { image: './images/projects/47.png', title: 'مشروع 47' },
 
     ];
     const projectsContainer = document.querySelector('.projects-container');
