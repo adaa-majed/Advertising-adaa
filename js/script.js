@@ -5,26 +5,7 @@ function ServicesFill(){
         { image: './images/services/board.svg', title: 'صناعة اللوحات الأعلانية بكافة انواعها ' },
         { image: './images/services/idea.svg', title: 'تقديم حلول متكاملة لاستخدام أفضل المنتجات ' },
         { image: './images/services/maintance.svg', title: 'صيانة ' },
-         { image: './images/projects/21.png', title: 'مشروع 21' },
-        { image: './images/projects/22.png', title: 'مشروع 22' },
-        { image: './images/projects/23.png', title: 'مشروع 23' },
-        { image: './images/projects/24.png', title: 'مشروع 24' },
-        { image: './images/projects/25.png', title: 'مشروع 25' },
-        { image: './images/projects/26.png', title: 'مشروع 26' },
-        { image: './images/projects/27.png', title: 'مشروع 27' },
-        { image: './images/projects/28.png', title: 'مشروع 28' },
-        { image: './images/projects/29.png', title: 'مشروع 29' },
-        { image: './images/projects/30.png', title: 'مشروع 30' },
-        { image: './images/projects/31.png', title: 'مشروع 31' },
-        { image: './images/projects/32.png', title: 'مشروع 32' },
-        { image: './images/projects/33.png', title: 'مشروع 33' },
-        { image: './images/projects/34.png', title: 'مشروع 34' },
-        { image: './images/projects/35.png', title: 'مشروع 35' },
-        { image: './images/projects/36.png', title: 'مشروع 36' },
-        { image: './images/projects/37.png', title: 'مشروع 37' },
-        { image: './images/projects/38.png', title: 'مشروع 38' },
-        { image: './images/projects/39.png', title: 'مشروع 39' },
-        { image: './images/projects/40.png', title: 'مشروع 40' },
+        
     ];
     const servicesContainer = document.querySelector('.service_container');
 
