@@ -394,6 +394,15 @@ body {
   .service_section .btn-box a:hover {
     background-color: #5625a1;
   }
+.projects_section{
+    background-color: #f3f0f6;
+  }
+  .projects_section .heading_container{
+    padding: 90px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
   .about_section {
     background-color: #f3f0f6;
