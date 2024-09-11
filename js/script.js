@@ -5,6 +5,7 @@ function ServicesFill(){
         { image: './images/services/board.svg', title: 'صناعة اللوحات الأعلانية بكافة انواعها ' },
         { image: './images/services/idea.svg', title: 'تقديم حلول متكاملة لاستخدام أفضل المنتجات ' },
         { image: './images/services/maintance.svg', title: 'صيانة ' },
+        { image: './images/services/paper.png', title: 'جميع أنواع المطبوعات الورقية ' },
         
     ];
     const servicesContainer = document.querySelector('.service_container');
