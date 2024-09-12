@@ -50,7 +50,9 @@
   .slider_section .img_content {
     margin-top: 55px;
   }
-
+  .container-partners-img img{
+    width:100%;
+  }
   .contact_section .map_container {
     margin-top: 45px;
   }
